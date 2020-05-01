@@ -4,7 +4,7 @@
       <div class="row">
         <div class="divider-20 d-none d-xl-block"></div>
         <div class="col-md-12 mt-4 text-center animate" data-animation="fadeInUp">
-          <img class="margin-negative" src="images/footer_logo.png" alt="">
+          <img class="margin-negative footer-logo" src="images/logo/logo-white.png" title="Bignite Logo" alt="Bignite Logo">
           <div class="widget widget_social_buttons">
             <a href="https://www.facebook.com/#" class="fa fa-facebook color-icon" title="facebook"></a>
             <a href="https://www.twitter.com/#" class="fa fa-twitter color-icon" title="twitter"></a>

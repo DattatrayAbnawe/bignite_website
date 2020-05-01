@@ -6,10 +6,8 @@
 <html class="no-js">
 <!--<![endif]-->
 
-
-<!-- Mirrored from webdesign-finder.com/html/dotcreative/pricing.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 26 Apr 2020 05:20:57 GMT -->
 <head>
-	<title>Bignite CS | Pricing</title>
+	<title>Bignite CS | Price</title>
 	<meta charset="utf-8">
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">

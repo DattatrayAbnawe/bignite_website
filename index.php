@@ -6,8 +6,6 @@
 <html class="no-js">
 <!--<![endif]-->
 
-
-<!-- Mirrored from webdesign-finder.com/html/dotcreative/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 26 Apr 2020 05:09:04 GMT -->
 <head>
 	<title>Bignite CS | Home</title>
 	<meta charset="utf-8">
@@ -20,11 +18,7 @@
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
-	<link rel="stylesheet" href="css/bootstrap.min.css">
-	<link rel="stylesheet" href="css/animations.css">
-	<link rel="stylesheet" href="css/font-awesome.css">
-	<link rel="stylesheet" href="css/main.css" class="color-switcher-link">
-	<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+	<?php include('common/topscript.php') ?>
 
 	<!--[if lt IE 9]>
 		<script src="js/vendor/html5shiv.min.js"></script>
@@ -1016,12 +1010,7 @@
 	<!-- eof #canvas -->
 
 
-	<script src="js/compressed.js"></script>
-	<script src="js/main.js"></script>
-	<!-- <script src="js/switcher.js"></script> -->
+	<?php include('common/bottomscript.php') ?>
 
 </body>
-
-
-<!-- Mirrored from webdesign-finder.com/html/dotcreative/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 26 Apr 2020 05:10:56 GMT -->
 </html>

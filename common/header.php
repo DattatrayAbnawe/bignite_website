@@ -3,7 +3,7 @@
     <div class="row align-items-center">
       <div class="col-xl-2 col-lg-3 col-11">
         <a href="index.php" class="logo text-center">
-          <img src="images/logo.png" alt="">
+          <img src="images/logo/logo-white.png" title="Bignite Logo" alt="Bignite Logo">
         </a>
       </div>
       <div class="col-xl-8 col-lg-6 col-1 text-sm-center">
