@@ -19,22 +19,22 @@
               <a href="about.php">About</a>
             </li>
             <li>
-              <a href="services1.php">Services</a>
+              <a href="#">Services</a>
               <ul>
                 <li>
-                  <a href="#">Logo Design &amp; Branding</a>
+                  <a href="maintenance.php">Logo Design &amp; Branding</a>
                 </li>
                 <li>
                   <a href="#">Web Design/Development</a>
                   <ul>
                     <li>
-                      <a href="#">Static Website</a>
+                      <a href="maintenance.php">Static Website</a>
                     </li>
                     <li>
-                      <a href="#">Dynamic Website</a>
+                      <a href="maintenance.php">Dynamic Website</a>
                     </li>
                     <li>
-                      <a href="#">E-Commercce Website</a>
+                      <a href="maintenance.php">E-Commercce Website</a>
                     </li>
                   </ul>
                 </li>
@@ -42,13 +42,13 @@
                   <a href="#">App Development</a>
                   <ul>
                     <li>
-                      <a href="#">Andriod/IOS App</a>
+                      <a href="maintenance.php">Andriod/IOS App</a>
                     </li>
                     <li>
-                      <a href="#">Hybrid App</a>
+                      <a href="maintenance.php">Hybrid App</a>
                     </li>
                     <li>
-                      <a href="#">Native App</a>
+                      <a href="maintenance.php">Native App</a>
                     </li>
                   </ul>
                 </li>
@@ -56,22 +56,22 @@
                   <a href="#">Web Maintanance</a>
                   <ul>
                     <li>
-                      <a href="#">Performance Check</a>
+                      <a href="maintenance.php">Performance Check</a>
                     </li>
                     <li>
-                      <a href="#">Fixes &amp; Enhancement</a>
+                      <a href="maintenance.php">Fixes &amp; Enhancement</a>
                     </li>
                     <li>
-                      <a href="#">Content &amp; Backup</a>
+                      <a href="maintenance.php">Content &amp; Backup</a>
                     </li>
                     <li>
-                      <a href="#">Functionality Check</a>
+                      <a href="maintenance.php">Functionality Check</a>
                     </li>
                     <li>
-                      <a href="#">Tech Support</a>
+                      <a href="maintenance.php">Tech Support</a>
                     </li>
                     <li>
-                      <a href="#">Hack &amp; Virus Proof</a>
+                      <a href="maintenance.php">Hack &amp; Virus Proof</a>
                     </li>
                   </ul>
                 </li>
@@ -81,13 +81,13 @@
 
             <!-- portfolio -->
             <li>
-              <a href="gallery-regular.php">Portfolio</a>
+              <a href="portfolio.php">Portfolio</a>
             </li>
             <!-- eof portfolio -->
 
 
             <li>
-              <a href="about.php">Clients</a>
+              <a href="maintenance.php">Clients</a>
             </li>
             <!-- eof clients -->
 
@@ -98,7 +98,7 @@
 
 
             <li>
-              <a href="contact2.php">Contacts</a>
+              <a href="contact.php">Contacts</a>
             </li>
             <!-- eof contacts -->
 

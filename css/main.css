@@ -20312,7 +20312,7 @@ h4.margin {
 }
 
 .vertical-item.gallery-excerpt-padding .item-content {
-	padding: 50px 61px 60px;
+	padding: 50px 30px 60px;
 }
 
 .vertical-item.gallery-excerpt-padding .item-content h6 {
@@ -23192,6 +23192,10 @@ h5 {
 }
 
 /* custom */
+.know-more-btn {
+	padding: 20px 61px;
+}
+
 .footer-logo {
 	max-height: 120px;
 	margin-top: -70px;

@@ -245,17 +245,16 @@
 						<div class="col-12 col-md-6 col-lg-4">
 							<div class="vertical-item text-center">
 								<div class="item-media">
-									<img src="images/service/service_icon_1-1.png" alt="">
+									<img src="images/service/service_icon_3-1.png" alt="">
 								</div>
 								<div class="item-content">
 									<h6>
-										<a href="service-single1.html">Marketing</a>
+										<a href="service-single1.html">Web Design</a>
 									</h6>
 
 									<p>
-										We use strategic marketing tactics that have been proven to work.
+										Pork chop pork belly hamburger prosciutto, fatback andouille flank.
 									</p>
-
 								</div>
 							</div>
 						</div>
@@ -281,16 +280,17 @@
 						<div class="col-12 col-md-6 col-lg-4">
 							<div class="vertical-item text-center">
 								<div class="item-media">
-									<img src="images/service/service_icon_3-1.png" alt="">
+									<img src="images/service/service_icon_1-1.png" alt="">
 								</div>
 								<div class="item-content">
 									<h6>
-										<a href="service-single1.html">Web Design</a>
+										<a href="service-single1.html">App Development</a>
 									</h6>
 
 									<p>
-										Pork chop pork belly hamburger prosciutto, fatback andouille flank.
+										We use strategic marketing tactics that have been proven to work.
 									</p>
+
 								</div>
 							</div>
 						</div>
@@ -302,7 +302,7 @@
 								</div>
 								<div class="item-content">
 									<h6>
-										<a href="service-single1.html">SEO Optimization</a>
+										<a href="service-single1.html">Web Maintenance</a>
 									</h6>
 
 									<p>
@@ -411,7 +411,7 @@
 						</div>
 						<div class="col-12 col-lg-4">
 							<div class="step-right-part">
-								<p class="step-text">We turn your ideas into a reality. &our website is placed on a "development server" where you get to watch the whole process, live.</p>
+								<p class="step-text">We turn your ideas into a reality. Our website is placed on a "development server" where you get to watch the whole process, live.</p>
 							</div>
 						</div>
 					</div>

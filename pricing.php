@@ -7,7 +7,7 @@
 <!--<![endif]-->
 
 <head>
-	<title>Bignite CS | Price</title>
+	<title>Bignite CS | Pricing</title>
 	<meta charset="utf-8">
 	<!--[if IE]>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -58,9 +58,6 @@
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item">
 									<a href="index.php">Home</a>
-								</li>
-								<li class="breadcrumb-item">
-									<a href="#">Pages</a>
 								</li>
 								<li class="breadcrumb-item active">
 									Pricing
