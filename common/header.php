@@ -22,7 +22,7 @@
               <a href="#">Services</a>
               <ul>
                 <li>
-                  <a href="maintenance.php">Logo Design &amp; Branding</a>
+                  <a href="branding_detail.php">Logo Design &amp; Branding</a>
                 </li>
                 <li>
                   <a href="#">Web Design/Development</a>
