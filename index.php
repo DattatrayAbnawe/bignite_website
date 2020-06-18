@@ -106,7 +106,7 @@
 													</h3>
 												</div>
 												<div class="intro_layer page-bottom" data-animation="expandUp">
-													<a class="btn btn-maincolor" href="about.html">Get Started</a>
+													<a class="btn btn-maincolor" href="contact.php">Get Started</a>
 												</div>
 											</div>
 											<!-- eof .intro_layers -->
@@ -141,7 +141,7 @@
 													<p class="text-uppercase intro_after_featured_word">Solutions</p>
 												</div>
 												<div class="intro_layer page-bottom" data-animation="expandUp">
-													<a class="btn btn-maincolor" href="about.html">Get Started</a>
+													<a class="btn btn-maincolor" href="contact.php">Get Started</a>
 												</div>
 											</div>
 											<!-- eof .intro_layers -->
@@ -178,8 +178,8 @@
 												</div>
 
 												<div class="intro_layer page-bottom" data-animation="expandUp">
-													<a class="btn btn-maincolor" href="about.html">Get Started</a>
-													<a class="btn btn-outline-maincolor" href="#">our folio</a>
+													<a class="btn btn-maincolor" href="contact.php">Get Started</a>
+													<a class="btn btn-outline-maincolor" href="portfolio.php">our folio</a>
 												</div>
 											</div>
 											<!-- eof .intro_layers -->
@@ -439,7 +439,7 @@
 						<img src="img/vertical_line2.png" alt="">
 					</div>
 					<div class=" white-button text-center">
-						<a class="btn white-btn" href="#">Get Started</a>
+						<a class="btn white-btn" href="contact.php">Get Started</a>
 					</div>
 					<div class="divider-30 d-none d-xl-block"></div>
 				</div>
@@ -927,7 +927,7 @@
 							<img src="img/vertical_line.png" alt="">
 							<div>
 								<div class="divider-40"></div>
-								<a href="#" class="btn btn-outline-maincolor">Let’s Talk!</a>
+								<a href="contact.php" class="btn btn-outline-maincolor">Let’s Talk!</a>
 								<div class="divider-30"></div>
 							</div>
 							<div class="img-wrap overflow-visible">

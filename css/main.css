@@ -3182,7 +3182,7 @@ a.pswp__share--download:hover {
 ** toTop
 */
 #toTop {
-	background-color: var(--primary-color);
+	background-color: #cd004d;
 	border-radius: 50%;
 	bottom: 10px;
 	color: transparent;

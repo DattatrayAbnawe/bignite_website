@@ -17,11 +17,7 @@
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
-	<link rel="stylesheet" href="css/bootstrap.min.css">
-	<link rel="stylesheet" href="css/animations.css">
-	<link rel="stylesheet" href="css/font-awesome.css">
-	<link rel="stylesheet" href="css/main.css" class="color-switcher-link">
-	<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+	<?php include('common/topscript.php') ?>
 
 	<!--[if lt IE 9]>
 		<script src="js/vendor/html5shiv.min.js"></script>
@@ -98,7 +94,7 @@
 									</ul>
 								</div>
 								<div class="plan-button">
-									<a href="#" class="btn inverse-color1">get started</a>
+									<a href="contact.php" class="btn inverse-color1">get started</a>
 								</div>
 							</div>
 
@@ -128,7 +124,7 @@
 									</ul>
 								</div>
 								<div class="plan-button">
-									<a href="#" class="btn inverse-color2">get started</a>
+									<a href="contact.php" class="btn inverse-color2">get started</a>
 								</div>
 							</div>
 
@@ -159,7 +155,7 @@
 									</ul>
 								</div>
 								<div class="plan-button">
-									<a href="#" class="btn inverse-color3">get started</a>
+									<a href="contact.php" class="btn inverse-color3">get started</a>
 								</div>
 							</div>
 
@@ -179,9 +175,7 @@
 	<!-- eof #canvas -->
 
 
-	<script src="js/compressed.js"></script>
-	<script src="js/main.js"></script>
-	<!-- <script src="js/switcher.js"></script> -->
+	<?php include('common/bottomscript.php') ?>
 
 </body>
 

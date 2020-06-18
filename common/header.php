@@ -19,7 +19,7 @@
               <a href="about.php">About</a>
             </li>
             <li>
-              <a href="#">Services</a>
+              <a href="services.php">Services</a>
               <ul>
                 <li>
                   <a href="branding_detail.php">Logo Design &amp; Branding</a>
